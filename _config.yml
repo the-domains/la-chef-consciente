@@ -2,7 +2,6 @@ name: La chef consciente
 favicon: null
 layout_spectrum: 0.73779
 typography_spectrum: 1
-style: taylor
 cta:
   domain: null
   bucket: null
